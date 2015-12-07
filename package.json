@@ -1,0 +1,23 @@
+{
+  "name": "ruxifont",
+  "version": "1.0.0",
+  "description": "New font",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilePW/ruxifont.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilePW/ruxifont/issues"
+  },
+  "homepage": "https://github.com/EmilePW/ruxifont#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "body-parser": "^1.14.1"
+  }
+}
